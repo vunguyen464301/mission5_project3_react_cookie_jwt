@@ -1,0 +1,6 @@
+.center{
+    display: flex;
+    justify-content: center;
+    /* background: rgb(187, 150, 150);
+    width: 100%; */
+}
